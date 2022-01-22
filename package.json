@@ -40,7 +40,7 @@
 		"vscode-test": "^1.2.2"
 	},
 	"dependencies": {
-		"node-fetch": "^2.6.0"
+		"node-fetch": "^3.1.1"
 	},
 	"optionalDependencies": {
 		"@types/node-fetch": "^2.5.4"
